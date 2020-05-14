@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "92839143077",
+    "firebase_url": "https://applab3-1cc7f.firebaseio.com",
+    "project_id": "applab3-1cc7f",
+    "storage_bucket": "applab3-1cc7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92839143077:android:8096c12d928bbabc494f4c",
+        "android_client_info": {
+          "package_name": "pl.edu.pwr.lab1.lab3app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92839143077-5q95jgulbjc93idph5vj0q4ui67q55i5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqUaL3UIaXl3d0AA3fufY_MObiTXgXSCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92839143077-5q95jgulbjc93idph5vj0q4ui67q55i5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

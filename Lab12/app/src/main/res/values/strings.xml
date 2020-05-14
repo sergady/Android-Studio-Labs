@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="mass_text">Mass [kg]</string>
+    <string name="height_text">Height [cm]</string>
+    <string name="massUS_text">Mass [lb]</string>
+    <string name="heightUS_text">Height [ft]</string>
+    <string name="height_hint">Enter your height</string>
+    <string name="mass_hint">Enter your mass</string>
+    <string name="button_text">COUNT</string>
+    <string name="contentDesc_bmiResult">Your BMI is showed here</string>
+    <string name="metric_item">Metric System</string>
+    <string name="imperial_item">Imperial System</string>
+    <string name="info_item">More Information</string>
+    <string name="info_textFinal">This app was made by Sergio, a student of
+        Mobile and Multimedia in 2020 course.</string>
+    <string name="back_button">Back</string>
+    <string name="BMI_Activity_text">Here you have a description of BMI and
+        a table with the different value meanings:</string>
+    <string name="BMIVal">BMI Measured</string>
+    <string name="BMIVal1">Less than 17</string>
+    <string name="BMIVal2">Between 17 and 18.5</string>
+    <string name="BMIVal3">Between 18.5 and 25</string>
+    <string name="BMIVal4">Between 25 and 30</string>
+    <string name="BMIVal5">More than 30</string>
+    <string name="ColorCode">| Coloring codes</string>
+    <string name="ColorRed">| Red code</string>
+    <string name="ColorYellow">| Yellow code</string>
+    <string name="ColorGreen">| Green code</string>
+
+
+
+
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="viewText_width"> 110 </integer>
+    <integer name="viewText_height"> 28 </integer>
+    <integer name="textBox_width"> 160 </integer>
+    <integer name="textBox_height"> 40 </integer>
+</resources>
